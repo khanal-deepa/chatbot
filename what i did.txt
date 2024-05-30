@@ -1,0 +1,5 @@
+i created conda envirenment for python version 3.10 
+and placed google api key in .env file
+
+command to run:
+"streamlit run app.py"

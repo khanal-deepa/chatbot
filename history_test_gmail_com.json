@@ -1,0 +1,13 @@
+{
+    "user_info": {
+        "Name": "test",
+        "Phone": "9700000000",
+        "Email": "test@gmail.com"
+    },
+    "asked_questions": [
+        {
+            "Question": "Organizational goals: ",
+            "Reply": "Concept: An organizational goal is desired point or destination toward which organizational activities are focused. Organizational goal is basis or reason of existence of any organization. Goal provides direction to the organizaton so that all the activities will be organized and controlled. Goal is future destiny where the organization wants to reach. It is the source for inspiration and motivation to all people associated with it."
+        }
+    ]
+}
